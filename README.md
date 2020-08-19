@@ -1,7 +1,7 @@
 # AdonisJS-Basic-API
 Criação e autenticação de usuários com AdonisJS e SQLite.
 
-# Adonis API application
+## Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
 
